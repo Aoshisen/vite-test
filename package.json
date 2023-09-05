@@ -1,0 +1,21 @@
+{
+  "name": "vite-test",
+  "version": "1.0.0",
+  "description": "一个vite 打包的联系库",
+  "main": "index.ts",
+  "author": "aoshisen",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.4.5",
+    "@sveltejs/vite-plugin-svelte-inspector": "^1.0.4",
+    "rollup-plugin-typescript2": "^0.35.0",
+    "svelte": "^4.2.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  }
+}
