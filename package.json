@@ -19,7 +19,8 @@
     "svelte-preprocess": "^5.0.4",
     "svelte-preprocess-cssmodules": "^2.2.4",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9"
+    "vite": "^4.4.9",
+    "vite-plugin-progress": "^0.0.7"
   },
   "dependencies": {
     "sass": "^1.66.1"
