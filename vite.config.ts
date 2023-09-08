@@ -34,6 +34,7 @@ export default defineConfig({
       },
       //是否单独的生成一个css 文件(如果指定了compilerOptions 那么设置成false 的时候才会去走cssHash 的逻辑)
       emitCss: false,
+      extensions: ["svelte"],
     }),
   ],
 });
